@@ -1,1 +1,1 @@
-<?php include_once("../chatroom_meetup/index/chatroom.html");?>
+<?php include_once("index/chatroom.html");?>
